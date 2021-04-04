@@ -1,0 +1,10 @@
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\bin\Release\RS232.exe.config
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\bin\Release\RS232.exe
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\bin\Release\RS232.pdb
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.csprojAssemblyReference.cache
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.Form1.resources
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.Properties.Resources.resources
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.csproj.GenerateResource.cache
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.exe
+C:\Users\Majkel\Desktop\Zadanie_4\posk IV\RS232\RS232\obj\Release\RS232.pdb
